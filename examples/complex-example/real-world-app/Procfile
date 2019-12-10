@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/real-world-app.jar clojure.main -m real-world-app.server
